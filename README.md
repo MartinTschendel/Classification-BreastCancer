@@ -13,4 +13,4 @@ This breast cancer databases was obtained from the University of Wisconsin Hospi
 
 <b>Application of Grid Search</b><br>
 Kernel SVM has the best performance. We can even improve the performance with Grid Search, that finds the best parameters of a model.<br>
-Final performance of Kernel SVM after the application of Grid Search: Accuracy: 93.92 %; St.-Dev.: 2.68 %
+Final performance of Kernel SVM after the application of Grid Search: Accuracy: 96.6 %

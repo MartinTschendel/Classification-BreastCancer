@@ -10,6 +10,7 @@ This breast cancer databases was obtained from the University of Wisconsin Hospi
 * Naive Bayes：Accuracy： 96.25%； St.-Dev.: 2.82 %
 * Random Forest：Accuracy： 95.53%； St.-Dev.: 2.68 %
 * Kernel SVM：Accuracy： 96.43%； St.-Dev.: 3.48 %
+* SVM: Accuracy: 95.53 %; St.-Dev.: 2.68 %
 
 <b>Application of Grid Search</b><br>
 Kernel SVM has the best performance. We can even improve the performance with Grid Search, that finds the best parameters of a model.<br>

@@ -11,7 +11,10 @@ This breast cancer databases was obtained from the University of Wisconsin Hospi
 * Random Forest：Accuracy： 95.53%； St.-Dev.: 2.68 %
 * Kernel SVM：Accuracy： 96.43%； St.-Dev.: 3.48 %
 * SVM: Accuracy: 95.53 %; St.-Dev.: 2.68 %
+* XGBoost: 95.71 %; St.-Dev.: 2.67 %
 
 <b>Application of Grid Search</b><br>
 Kernel SVM has the best performance. We can even improve the performance with Grid Search, that finds the best parameters of a model.<br>
-Final performance of Kernel SVM after the application of Grid Search: Accuracy: 96.6 %
+Final performance of Kernel SVM after the application of Grid Search: Accuracy: 96.6 %; St.-Dev.: 2.58 %<br><br>
+
+I also tried Grid Search on XGBoost. Final performance: Accuracy: 96.79 %; St.-Dev.: 2.08 %
